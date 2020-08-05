@@ -1,6 +1,6 @@
 # Pupil_center_detection
  
-Simple application pupil center detection using parallelograms mathod [1].
+Simple application for pupil center detection using parallelograms method [1].
 
 <p align="center"> 
 <img src="application.PNG">
